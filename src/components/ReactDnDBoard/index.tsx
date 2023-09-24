@@ -1,7 +1,12 @@
 import React from "react";
+import Board from "../Board";
 
 const ReactDnDBoard: React.FC = () => {
-  return <div>WIP</div>;
+  return (
+    <div>
+      <Board />
+    </div>
+  );
 };
 
 export default ReactDnDBoard;
