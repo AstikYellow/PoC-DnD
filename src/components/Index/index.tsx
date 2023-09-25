@@ -6,9 +6,6 @@ const Index: React.FC = () => {
     <div>
       <ul className="App-header">
         <li>
-          <Link to="/">Index</Link>
-        </li>
-        <li>
           <Link to="/react-dnd">React-DnD-Board</Link>
         </li>
         <li>

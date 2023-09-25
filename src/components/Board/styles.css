@@ -1,0 +1,22 @@
+.main-board {
+  background-color: cadetblue !important;
+}
+
+.card {
+  display: flex !important;
+  align-items: center;
+}
+
+.col-board {
+  display: flex !important;
+}
+
+.col {
+  width: max-content;
+  margin: 1rem;
+  padding: 1.2rem;
+}
+
+.item {
+  margin: 1rem 0rem;
+}

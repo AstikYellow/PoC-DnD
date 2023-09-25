@@ -208,6 +208,8 @@
     "range-parser": "^1.2.1",
     "raw-body": "^2.5.1",
     "react-bootstrap": "^2.8.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "readable-stream": "^3.6.2",
     "readdirp": "^3.6.0",
     "rechoir": "^0.8.0",
